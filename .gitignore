@@ -44,3 +44,8 @@ test_models/
 *.3ds
 *.stl
 *.blend
+
+# Backup files
+*.backup
+*.bak
+*~
